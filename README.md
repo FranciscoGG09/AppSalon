@@ -90,5 +90,5 @@ Si deseas ejecutar este proyecto en tu entorno local, sigue estos pasos:
 
 Desarrollado por **Francisco González**.
 
-* **LinkedIn:** [linkedin.com/in/francisco-gonzalez](https://linkedin.com/in/francisco-gonzalez)
+* **LinkedIn:** [linkedin.com/in/francisco-gonzalez](https://linkedin.com/in/francisco-javi-gonzalez-garcia)
 * **GitHub:** [@FranciscoGG09](https://github.com/FranciscoGG09)
